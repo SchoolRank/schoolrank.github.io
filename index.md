@@ -1,1 +1,1 @@
-//TODO
+You can find the class leaderboard here once the results of the term one paper start coming in.
