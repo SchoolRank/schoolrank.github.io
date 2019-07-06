@@ -21,9 +21,6 @@ $header-bg-color-secondary: #f4511d;
 }*/
 
 .leaderboard {
-  position: absolute;
-  top: 50%;
-  left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   width: 285px;
@@ -31,12 +28,17 @@ $header-bg-color-secondary: #f4511d;
   background: linear-gradient(to bottom, #3a404d, #181c26);
   border-radius: 10px;
   box-shadow: 0 7px 30px rgba(62, 9, 11, 0.3);
+  display: inline;
 }
 
 .leaderboard h1 {
   font-size: 18px;
-  color: #e1e1e1;
   padding: 12px 13px 18px;
+  margin: 0;
+  border-top-left-radius: 8px 8px;
+  border-top-right-radius: 8px 8px;
+  background-color: #3a404d;
+  color: white;
 }
 
 .leaderboard h1 svg {
@@ -50,6 +52,12 @@ $header-bg-color-secondary: #f4511d;
 
 .leaderboard ol {
   counter-reset: leaderboard;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
 }
 
 .leaderboard ol li {
@@ -118,6 +126,7 @@ $header-bg-color-secondary: #f4511d;
   z-index: 2;
   display: block;
   text-align: right;
+  color: white;
 }
 
 .leaderboard ol li::after {
