@@ -25,10 +25,15 @@ $header-bg-color-secondary: #f4511d;
   transform: translate(-50%, -50%);
   width: 285px;
   height: 308px;
+  background: -webkit-linear-gradient(top, #3a404d, #181c26);
   background: linear-gradient(to bottom, #3a404d, #181c26);
   border-radius: 10px;
   box-shadow: 0 7px 30px rgba(62, 9, 11, 0.3);
   display: inline;
+}
+
+small {
+    font-size: 100%;
 }
 
 .leaderboard h1 {
@@ -232,6 +237,14 @@ $header-bg-color-secondary: #f4511d;
 .leaderboard ol li:hover mark::after {
   opacity: 1;
   transition: all 0.35s ease-in-out;
+}
+
+.leaderboard ol li.fire {
+	background-image: url(images/fire-2.gif);
+	background-repeat: no-repeat;
+	background-size: 44px;
+	background-position-x: 0px;
+	background-position-y: -5px;
 }
 
 .the-most {
