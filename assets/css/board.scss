@@ -207,7 +207,8 @@ small {
 }
 
 .leaderboard ol li:nth-child(6)::before {
-  border-radius: 0 0 10px 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
 }
 
 .leaderboard ol li:nth-child(5) mark::before,
