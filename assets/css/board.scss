@@ -197,18 +197,12 @@ small {
 
 .leaderboard ol li:nth-child(5) {
   background: #c24448;
-  border-radius: 0 0 10px 10px;
 }
 
 .leaderboard ol li:nth-child(5)::after {
   background: #c24448;
   box-shadow: 0 -2.5px 0 rgba(0, 0, 0, 0.12);
   border-radius: 0 0 10px 10px;
-}
-
-.leaderboard ol li:nth-child(6)::before {
-  border-top-right-radius: 10px;
-  border-top-left-radius: 10px;
 }
 
 .leaderboard ol li:nth-child(5) mark::before,
