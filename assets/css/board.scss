@@ -206,6 +206,10 @@ small {
   border-radius: 0 0 10px 10px;
 }
 
+.leaderboard ol li:nth-child(6)::before {
+  border-radius: 0 0 10px 10px;
+}
+
 .leaderboard ol li:nth-child(5) mark::before,
 .leaderboard ol li:nth-child(5) mark::after {
   top: -9px;
