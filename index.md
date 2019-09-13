@@ -76,3 +76,22 @@ TEST LEADERBOARD ↓↓↓↓
          c0-1.097,0.908-1.99,2.024-1.99c1.117,0,2.025,0.893,2.025,1.99C23.241,6.246,22.333,7.138,21.215,7.138z"/>
    </symbol>
 </svg>
+
+## List of People Participating:
+
+- Om
+- Subrakant
+- Aniket
+- Lakshya
+- Virat
+- Srishti
+- Partha
+- Anurimaa
+- Pradyuman
+- Shakti
+- Dipayan
+- Aarushi
+- Navneet
+- Raktak
+- Arnav
+- Khushraj
