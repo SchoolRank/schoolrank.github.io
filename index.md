@@ -1,7 +1,6 @@
 ---
 layout: board
 ---
-The board should be displayed here - 
 
 TEST LEADERBOARD ↓↓↓↓
 <div class="leaderboard">
