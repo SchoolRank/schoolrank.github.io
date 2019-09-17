@@ -2,7 +2,8 @@
 layout: board
 ---
 
-# <u>Class Ranking</u>
+# 8E Exam Leaderboard:
+
 ## List of People Participating:
 
 - Om
