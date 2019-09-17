@@ -1,6 +1,8 @@
 ---
 layout: board
 ---
+
+# <u>Class Ranking</u>
 ## List of People Participating:
 
 - Om
